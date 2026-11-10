@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi , I'm Amit</h1>
 <hr>
 
 <h3 align="center">Full Stack Software Engineer with a passion for building efficient, user-centric applications.</h3>
